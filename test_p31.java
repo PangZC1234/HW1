@@ -1,4 +1,4 @@
-public class Sample11 {
+public class test_p31 {
 	public static void main(String[] args)
 	{
 		System.out.println("1+2 equals "+(1+2));

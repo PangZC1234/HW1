@@ -1,4 +1,4 @@
-public class Sample14 {
+public class test_p39 {
 	public static void main(String[] args)
 	{
 		int d = 2;
@@ -13,7 +13,7 @@ public class Sample14 {
 		double div1 = num1/num2;
 		double div2 = (double)num1/(double)num2;
 		
-		System.out.println("5/4 is "+div1);
-		System.out.println("5/4 is "+div2);
+		System.out.println("5/4 = "+div1);
+		System.out.println("5/4 = "+div2);
 	}
 }

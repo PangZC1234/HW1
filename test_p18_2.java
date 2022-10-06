@@ -1,4 +1,4 @@
-public class Sample5 {
+public class test_p18_2 {
 	public static void main(String[] args)
 	{
 		System.out.println("OCT 101 is character \101");

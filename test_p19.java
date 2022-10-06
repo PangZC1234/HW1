@@ -1,4 +1,4 @@
-public class Sample6 {
+public class test_p19 {
 	public static void main(String[] args)
 	{
 		System.out.println("DEC 10 in DEC is "+10);

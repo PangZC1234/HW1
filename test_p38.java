@@ -1,4 +1,4 @@
-public class Sample13 {
+public class test_p38 {
 	public static void main(String[] args)
 	{
 		double dnum = 160.5;
